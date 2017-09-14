@@ -2,7 +2,7 @@
 
 :running: :hourglass:  List of some challenge challenges of the type one challenge per day
 
-## Front-End Development
+## Front-End
 
  - [JavaScript30](https://javascript30.com/)
  - [100dayscss](https://100dayscss.com/)
