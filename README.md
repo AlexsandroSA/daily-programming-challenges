@@ -1,5 +1,7 @@
 # Daily Programming Challenges 
 
+![Cover: Daily Programming Challenges](./dpc-cover.jpg)
+
 :running: :hourglass: List of daily challenges for developers
 
 ## Front-End
