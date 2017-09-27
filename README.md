@@ -1,12 +1,14 @@
 # Daily Programming Challenges 
 
-:running: :hourglass:  List of some challenge challenges of the type one challenge per day
+:running: :hourglass: List of daily challenges for developers
 
 ## Front-End
 
  - [JavaScript30](https://javascript30.com/)
  - [100dayscss](https://100dayscss.com/)
+ - [100daysfrontend](http://100daysfrontend.com/)
  - [Daily CSS Images](http://dailycssimages.com/)
+ - [Daily UI](http://www.dailyui.co/)
 
 ## License
 
