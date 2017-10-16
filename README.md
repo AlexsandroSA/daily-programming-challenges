@@ -12,6 +12,7 @@
  - [Daily CSS Images](http://dailycssimages.com/)
  - [Daily UI](http://www.dailyui.co/)
  - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
+ - [Just Build Websites](https://github.com/melanierichards/just-build-websites)
  
 
 ### How to Share
