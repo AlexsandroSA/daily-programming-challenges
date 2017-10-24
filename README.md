@@ -4,7 +4,7 @@
 
 :running: :hourglass: List of daily challenges for developers
 
-## Front-End
+## Front-End :computer:
 
  - [JavaScript30](https://javascript30.com/)
  - [100dayscss](https://100dayscss.com/)
@@ -13,6 +13,11 @@
  - [Daily UI](http://www.dailyui.co/)
  - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
  - [Just Build Websites](https://github.com/melanierichards/just-build-websites)
+ 
+## Solving Problems :dart:
+ 
+ - [URI Online Judge](https://www.urionlinejudge.com.br/)
+ - [Hackerrank](https://www.hackerrank.com/)
  
 
 ### How to Share
