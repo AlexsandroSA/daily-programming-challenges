@@ -24,7 +24,7 @@ Unsure where to begin contributing to __daily-programming-challenges__? You can 
 
  1. Fork the [daily-programming-challenges](https://github.com/AlexsandroSA/daily-programming-challenges)
  2. Update the README.md with details of changes
- 3. Make the [Pull Requests](https://help.github.com/articles/creating-a-pull-request/) and wait :bowtie:
+ 3. Make a [Pull Requests](https://help.github.com/articles/creating-a-pull-request/) and wait :bowtie:
  
  :warning: __Do not include issue numbers in the PR title__
  
