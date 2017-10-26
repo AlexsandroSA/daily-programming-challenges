@@ -26,6 +26,12 @@
 - [Share on Google Plus](https://plus.google.com/share?url=https://github.com/AlexsandroSA/daily-programming-challenges)
 - [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/AlexsandroSA/daily-programming-challenges&title=Free%20Programming%20Books&summary=&source=)
 
+### Credits
+
+* __Alexsandro Silva Alves__ - _Initial work_ - [AlexsandroSA](https://github.com/AlexsandroSA)
+
+See also the list of [contributors](https://github.com/AlexsandroSA/daily-programming-challenges/graphs/contributors) who participated in this project.
+
 ### License
 
-[MIT](https://github.com/AlexsandroSA/daily-programming-challenges/blob/master/LICENSE) © Alexsandro Silva Alves
+[MIT](https://github.com/AlexsandroSA/daily-programming-challenges/blob/master/LICENSE) © [Alexsandro Silva Alves](https://twitter.com/alexsandro_sa)
