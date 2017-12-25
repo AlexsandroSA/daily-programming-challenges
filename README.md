@@ -18,6 +18,7 @@
  
  - [URI Online Judge](https://www.urionlinejudge.com.br/)
  - [Hackerrank](https://www.hackerrank.com/)
+ - [CodeWars](https://www.codewars.com)
  
 
 ### How to Share
