@@ -16,13 +16,15 @@
  - [CSS Grid](https://cssgrid.io/)
  - [30 Days of React Native](https://github.com/fangwei716/30-days-of-react-native)
  - [Frontend Mentor](https://www.frontendmentor.io/challenges)
+ - [30DaysOfPostman](https://blog.postman.com/introducing-30-days-of-postman-coding-challenge/)
  
 ## Solving Problems :dart:
  
  - [URI Online Judge](https://www.urionlinejudge.com.br/)
  - [Hackerrank](https://www.hackerrank.com/)
  - [CodeWars](https://www.codewars.com)
- 
+ - [Edabit](https://edabit.com/challenges)
+ - [devChallenges](https://devchallenges.io/)
 
 ### How to Share
 - [Share on Twitter](http://twitter.com/home?status=https://github.com/AlexsandroSA/daily-programming-challenges)
