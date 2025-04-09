@@ -8,9 +8,7 @@
 
  - [JavaScript30](https://javascript30.com/)
  - [100dayscss](https://100dayscss.com/)
- - [Daily CSS Images](http://dailycssimages.com/)
  - [Daily UI](http://www.dailyui.co/)
- - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
  - [Just Build Websites](https://github.com/melanierichards/just-build-websites)
  - [CSS Grid](https://cssgrid.io/)
  - [30 Days of React Native](https://github.com/fangwei716/30-days-of-react-native)
